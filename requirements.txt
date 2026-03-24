@@ -1,0 +1,6 @@
+customtkinter==5.2.0
+supabase==2.3.5
+python-dotenv==1.0.0
+reportlab==4.0.7
+tkcalendar==1.6.1
+Pillow>=11.0.0
